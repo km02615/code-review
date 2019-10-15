@@ -6,5 +6,3 @@ https://km02615.github.io/code-review/
 
 
 code-review.kurtsclassictunes.com
-
-
