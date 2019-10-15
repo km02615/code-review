@@ -1,2 +1,9 @@
 /* CSS Document */
 
+body{background-color:#ffe6b3; 
+ }
+h1{color:#B619E8;font-family: 'Charm', cursive; sans-serif;
+}
+h2{color:black; font-family: 'Charm', cursive; sans-serif;}
+h3{color:goldenrod; font-family: 'Charm', cursive; sans-serif;}
+p,ol,ul,li {font-family: 'Charm', cursive; sans-serif;}
